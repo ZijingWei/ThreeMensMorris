@@ -1,4 +1,3 @@
-# Proposal for The Final Project
 ## 1. What is this project.
 
 This project implements the game three men's morris (A 3*3 board game) using Cinder. Users can have a battle with our algorithm, which, can always find the optimal step with the shortest way reaching the victory on each step.
